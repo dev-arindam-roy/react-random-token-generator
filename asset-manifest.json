@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-random-token-generator/static/css/main.6193e896.css",
+    "main.js": "/react-random-token-generator/static/js/main.da2db773.js",
+    "static/js/453.db4a58f2.chunk.js": "/react-random-token-generator/static/js/453.db4a58f2.chunk.js",
+    "index.html": "/react-random-token-generator/index.html",
+    "main.6193e896.css.map": "/react-random-token-generator/static/css/main.6193e896.css.map",
+    "main.da2db773.js.map": "/react-random-token-generator/static/js/main.da2db773.js.map",
+    "453.db4a58f2.chunk.js.map": "/react-random-token-generator/static/js/453.db4a58f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6193e896.css",
+    "static/js/main.da2db773.js"
+  ]
+}

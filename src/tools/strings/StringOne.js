@@ -54,6 +54,7 @@ const StringOne = () => {
   };
   return (
     <>
+      <div className="animated-body-bg"></div>
       <Container>
         <Row className="mt-5">
           <Col md={{ span: 6, offset: 3 }} className="p-3">

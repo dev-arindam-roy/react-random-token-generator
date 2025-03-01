@@ -1,7 +1,7 @@
 {
   "name": "multi-tools-app",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/react-random-strong-password-generator",
+  "homepage": "https://gitname.github.io/react-random-token-generator",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
